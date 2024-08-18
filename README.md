@@ -22,3 +22,5 @@ vim -c "packadd ddu-sample-terminal-previewer" -c "DduTerminalPreview"
 With ddu-ui-ff, this colorful string will shown in preview window:
 
 <span style="color: red;">RED</span><span style="color: green;">GREEN</span><span style="color: blue;">BLUE</span>
+
+![](./preview.png)
